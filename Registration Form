@@ -1,0 +1,24 @@
+# 🧾 Registration Form using Tkinter
+
+This is a basic **Registration Form GUI** built using Python's **Tkinter** library. It allows the user to enter their **name** and **email**, and on clicking the "Submit" button, it prints the data to the console.
+
+---
+
+## 📌 Features
+
+- User-friendly interface
+- Input fields for Name and Email
+- Submit button to handle user input
+- Clear and minimal design
+- Built using Python's standard GUI toolkit: Tkinter
+
+---
+
+## 💻 Technologies Used
+
+- Python 3
+- Tkinter (comes with standard Python installation)
+
+---
+
+
