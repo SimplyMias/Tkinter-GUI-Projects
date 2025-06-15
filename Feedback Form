@@ -1,0 +1,26 @@
+# 🎯 Feedback Form using Tkinter (Python GUI)
+
+This is a simple GUI-based **Feedback Form** built using Python's Tkinter library. It allows users to enter their name, select a course, rate their satisfaction, and submit comments.
+
+---
+
+## 📌 Features
+
+- User-friendly interface using Tkinter
+- Input fields:
+  - Name (`Entry`)
+  - Course selection (`Spinbox`)
+  - Satisfaction level (`Scale`)
+  - Comments (`Text`)
+- Displays the entered data in the terminal after submission
+
+---
+
+## 🛠️ Tech Stack
+
+- Language: **Python**
+- GUI Library: **Tkinter (standard library)**
+
+---
+
+
