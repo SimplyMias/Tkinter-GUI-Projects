@@ -1,0 +1,21 @@
+This is a simple and interactive Login Form GUI application built with Python's tkinter library as part of my Tkinter Day 5 learning.
+It captures user details including:
+
+Username
+
+Email
+
+Password
+
+Hobbies (using Checkbuttons)
+
+Gender (using Radiobuttons)
+
+📌 Features
+Input fields for username, email, and password
+
+Select hobbies using checkboxes: Swimming, Riding, Racing
+
+Choose gender using radio buttons: Male, Female, Other
+
+Form data displayed using a popup messagebox after submission
